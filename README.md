@@ -9,3 +9,5 @@
               https://www.w3schools.com/js/js_ajax_intro.asp
 * Day4 JSON  20180521
   * reference:https://www.w3schools.com/js/js_json.asp
+* Day5 Output 20180522
+  * reference:https://www.w3schools.com/js/js_output.asp
